@@ -1,0 +1,8 @@
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Conditionals\obj\Debug\Conditionals.pdb

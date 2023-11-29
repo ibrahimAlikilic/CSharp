@@ -1,0 +1,8 @@
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\bin\Debug\ornek_AsalSayı.exe.config
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\bin\Debug\ornek_AsalSayı.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\bin\Debug\ornek_AsalSayı.pdb
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\obj\Debug\ornek_AsalSayı.csproj.AssemblyReference.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\obj\Debug\ornek_AsalSayı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\obj\Debug\ornek_AsalSayı.csproj.CoreCompileInputs.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\obj\Debug\ornek_AsalSayı.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ornek_AsalSayı\obj\Debug\ornek_AsalSayı.pdb

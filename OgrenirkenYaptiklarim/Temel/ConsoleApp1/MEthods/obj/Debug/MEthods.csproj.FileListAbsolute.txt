@@ -1,0 +1,8 @@
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\bin\Debug\MEthods.exe.config
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\bin\Debug\MEthods.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\bin\Debug\MEthods.pdb
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\obj\Debug\MEthods.csproj.AssemblyReference.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\obj\Debug\MEthods.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\obj\Debug\MEthods.csproj.CoreCompileInputs.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\obj\Debug\MEthods.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\MEthods\obj\Debug\MEthods.pdb

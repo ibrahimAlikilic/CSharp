@@ -1,0 +1,8 @@
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\obj\Debug\TypesAndRaliables.csproj.AssemblyReference.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\obj\Debug\TypesAndRaliables.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\obj\Debug\TypesAndRaliables.csproj.CoreCompileInputs.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

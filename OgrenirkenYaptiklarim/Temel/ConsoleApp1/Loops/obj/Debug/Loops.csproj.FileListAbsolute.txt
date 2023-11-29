@@ -1,0 +1,8 @@
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\bin\Debug\Loops.exe.config
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\bin\Debug\Loops.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\bin\Debug\Loops.pdb
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\obj\Debug\Loops.exe
+C:\Users\ibo_m\OneDrive\Masaüstü\yazılımla ilgili tüm notlar\07.07.2022 C# dersleri\ConsoleApp1\Loops\obj\Debug\Loops.pdb
